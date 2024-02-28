@@ -4,5 +4,5 @@
 ### Trailer
 **https://www.youtube.com/watch?v=lnY9FWUTY84**
 #### Post de la Serie
-!(https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt6470478%2F&psig=AOvVaw1cpe8J4v7Wj4xTgh69Nlrs&ust=1709219807339000&ource=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD8rI2qzoQDFQAAAAAdAAAAABAE)
-#### _Listas Animadas_
+/assets/images/electrocat.png
+##### Listas Animadas
