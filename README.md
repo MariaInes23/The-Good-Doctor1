@@ -4,5 +4,5 @@
 ### Trailer
 **https://www.youtube.com/watch?v=lnY9FWUTY84**
 #### Post de la Serie
-/assets/images/electrocat.png
+![The Good Doctor](https://github.com/MariaInes23/The-Good-Doctor1/assets/158686698/c61a45e4-23b3-4d3c-bcf2-f004511a03f1)
 ##### Listas Animadas
